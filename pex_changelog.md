@@ -7,5 +7,6 @@
 - Bring back Aptx HD/Adaptive 
 - Nuke LiveDisplay
 - fixup: rename udfps strings
+- Import power_profile from coral
 - Etc.
 
