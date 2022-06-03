@@ -1,4 +1,4 @@
-# DEVICE CHANGELOG DD/MM BUILD
+# DEVICE CHANGELOG 03/JUNE BUILD
 - Initial Build, PixelExtended bringup.
 - Use SOVIET kernel, bringup by Niviann / Mihau
 - Big thanks to LoganDeveloper for tree
