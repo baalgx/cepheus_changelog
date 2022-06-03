@@ -8,5 +8,6 @@
 - Nuke LiveDisplay
 - fixup: rename udfps strings
 - Import power_profile from coral
+- DC Dimming not working atm
 - Etc.
 
