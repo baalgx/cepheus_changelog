@@ -17,6 +17,7 @@
 - overlay: Enable auto brightness while dozing
 - AOD: Decouple suspend from screen state
 - wifi: Update config from sm8150-common tree 
+- prop: Force disable iorapd
 - Other improvements
 
 # PixelOS Device Changes | 17-June-2022
