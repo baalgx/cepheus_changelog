@@ -1,6 +1,5 @@
-# PixelOS Device Changes | 29-June-2022
+# PixelOS Device Changes | 28-June-2022
 - Drop Vulkan (fixes color/glitched video issues and some GCam crashing)
-- Add SmoothDisplay > Enable toggle for 72Hz
 - Disable zram writeback 
 - rootdir: Powersaving in charger mode
 - Adjust charger state CPUs
