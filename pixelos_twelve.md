@@ -3,7 +3,8 @@
 - overlay: Allow more cached apps in the background
 - rootdir: Add SchedTune configuration
 - Switch to SkiaGL Threaded
-- Developer options: Display cutout: add NoCutOut overlay (Hide Notch)
+- Developer options: Display cutout: add NoCutOut overlay (Hide Notch) 
+   [It breaks fingerprint at the moment]
 - Bring back HBM / Display Mode
 - LiveDisplay: Add Picture adjustment
 - kernel: Drop KCAL color control
