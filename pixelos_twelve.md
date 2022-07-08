@@ -5,6 +5,7 @@
 - Switch to SkiaGL Threaded
 - Developer options: Display cutout: add NoCutOut overlay (Hide Notch)
 - Bring back HBM / Display Mode
+- LiveDisplay: Add Picture adjustment
 - kernel: Drop KCAL color control
 - kernel: Fix green tint issue on fod unlock [Thanks to Logan, Flackback and Demon000 for commit/fix!]
 - kernel: Enable LZ4 Compressed Ramdisk
