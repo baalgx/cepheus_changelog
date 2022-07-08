@@ -1,3 +1,15 @@
+# PixelOS Device Changes | DD-MM-2022
+- overlay: Compact cached app heaps in the background
+- overlay: Allow more cached apps in the background
+- rootdir: Add SchedTune configuration
+- Switch to SkiaGL Threaded
+- Bring back HBM / Display Mode
+- LiveDisplay: Add Picture adjustment
+- kernel: Drop KCAL color control
+- kernel: Fix green tint issue on fod unlock [Thanks to Logan, 
+    Flackback and Demon000 for commit/fix!]
+- More improvements ^^
+
 # PixelOS Device Changes | 28-June-2022
 - Drop Vulkan (fixes color/glitched video issues and some GCam crashing)
 - Disable zram writeback 
