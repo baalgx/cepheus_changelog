@@ -1,4 +1,5 @@
 # PixelOS Device Changes | 20-July-2022
+- Fix gps not working properly
 - Revert "cepheus: overlay: Compact cached app heaps in the background" 
 - Revert "cepheus: overlay: Allow more cached apps in the background" 
 - Don't improve RAM management 
