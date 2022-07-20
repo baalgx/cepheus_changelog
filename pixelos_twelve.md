@@ -1,3 +1,12 @@
+# PixelOS Device Changes | 20-July-2022
+- Revert "cepheus: overlay: Compact cached app heaps in the background" 
+- Revert "cepheus: overlay: Allow more cached apps in the background" 
+- Don't improve RAM management 
+- Use phase offsets as duration and sync duration props with raven
+- kernel: import and Enable Oneplus memory management hacks
+- kernel: synced with latest soviet commits
+
+
 # PixelOS Device Changes | 13-July-2022
 - *SIGNED BUILD [switch to release-keys], NEEDS CLEAN FLASH!
 - CarrierConfig: Enable VoLTE support for Telkomsel (Indonesia)
